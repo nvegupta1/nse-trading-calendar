@@ -9,7 +9,7 @@ A Python package to check whether a given date is a trading day on NSE and its t
 ## Installation
 
 ```bash
-pip install .
+pip install nse-trading-calendar
 ```
 
 ## Usage
